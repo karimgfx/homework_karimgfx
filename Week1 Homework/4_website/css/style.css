@@ -1,0 +1,26 @@
+body {
+    font-family: Courier;
+    text-align: center;
+    background: black;
+    color: white;
+    background: url("http://img15.deviantart.net/80ca/i/2012/099/6/e/circle_light_texture_by_thinminmeg-d4vl01e.png");
+    background-size: cover;
+}
+
+h1 {
+    border: 0px solid #000;
+}
+
+h3 {
+    border-bottom: 0px dotted #000;
+}
+
+ol {
+    border: 0px dotted #000;		
+}
+
+
+
+img {
+	border: 2px dotted #903;
+}
