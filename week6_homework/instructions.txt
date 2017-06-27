@@ -1,0 +1,4 @@
+- Add a button that does something
+- Write a function that does anything
+- Write another function that sums the total of all rolls into a variable called sumOfRolls. For example if the dice are rolled 3 times for a total of 3 on the first roll and 7 on the second roll and 9 on the third role, a console.log of sumOfRolls would print 19
+- Change the style.css and index.html to style your casino :)
