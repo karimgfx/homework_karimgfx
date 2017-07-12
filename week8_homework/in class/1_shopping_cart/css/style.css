@@ -1,0 +1,40 @@
+body {
+    padding: 50px;
+    font-family: courier;
+    background-image: url(../images/static.gif);
+    color: white;
+    text-align: center;
+}
+.product {
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+    display: inline-block;
+    margin-top: 40px;
+    text-align: center;
+}
+.title {
+    font-size: 24px;
+    margin-right: 10px;
+    color: white;
+    text-align: center;
+}
+.details {
+    color: white;
+    display: inline-block;
+}
+.price {
+    font-size: 18px;
+    color: white;
+}
+.quantity {
+    margin-bottom: 5px;
+
+}
+.productShot{
+   height: 200px;
+}
+.number{
+    color: red;
+}
