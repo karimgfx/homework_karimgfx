@@ -1,0 +1,67 @@
+/*
+Project Name: Blank Template
+Client: Your Client
+Author: Your Name
+Developer @You in DTLA
+*/
+
+body {
+    font-family: courier;
+    text-align: center;
+    background-image: url('../img/WINGS.png');
+    background-size: inherit;
+    background-repeat: no-repeat;
+    background-position: center;
+    color:#000;
+    wid
+}
+
+h2 {
+    color: #000;
+}
+footer {
+    padding: 15px 0 0 0;
+    position: center, fixed;
+    height: 60px;
+    margin-top: 100px;
+
+}
+
+#minibar {
+    color: #000;
+    text-decoration: none;
+    
+}
+#minibar li {
+    display: inline;
+
+}
+
+
+#home, #about, #projects, #team {
+    padding-bottom: 30px;
+    min-height: 400px;
+}
+#home, #about, footer {
+  
+}
+#projects, #team {
+     
+}
+#home {
+    background-size: cover;
+    opacity: 2;
+}
+.affix {
+    top: 0;
+    z-index: 100;
+
+}
+.affix-bottom {
+    position: absolute;
+}
+
+.person {
+    height: 300px;
+}
+
